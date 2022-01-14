@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ehazard1879 a social cultural anthropologist fluent in historian and cross-cultural natural language processing challenges. 
-- 👀 I’m interested in computational social science and humanities research projects focused on the digital representation of dynamic networks over time and across multiple geopolitical units of space. I WILL solve human, policy, and transdiciplinary problems that end or ameliorate disparities of access or knowledge.
-- 🌱 I’m currently learning python and javascript with the intention of building interactive maps that incorporate 19th century African Latin American historical and cultural content.
-- 💞️ I’m looking to collaborate with computing architecture engineers and designers interested in developing interactive tech products and culturalizing HCI. Regenerative ecological design for the improvement of environmental health are consistent collaborative areas. I say yes to digital civics.
+- 👋 Hi, I’m @ehazard1879 an anthropologist fluent in historian and cross-cultural natural language processing challenges because my doctorate and professional career incorporated advanced analytical and research methods---ICTS past, present, and future.
+- 👀 I’m interested in computational social science and humanities research projects focused on visualizing interactive, dynamic networks over time and across space AND digital civics applications.
+- 🌱 I’m currently working on an interactive web map, character animation using Blender, and learning R and Python well.
+- 💞️ I’m looking to collaborate with computing architecture engineers and designers interested in developing interactive tools and products inclusively designed for social impact.
 - 📫 Reach me through GitHub inbox notifications or @globalhomegirl on twitter.
 <!---
 ehazard1879/ehazard1879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
